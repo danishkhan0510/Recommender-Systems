@@ -11,7 +11,8 @@ We first create a sparse matrix of the movie genres filled with 1's and 0's for 
 This is a content based movie recommendation system using the description of movies.  
 In this we take only five essential features i.e. title, actors, genre, writers, directors from the dataset rest are ignored. Using those five essential features we calculate similarity between movies using TF-IDF vectorizer and cosine similarity. So, All related movies which is having more cosine similarity score with the given movies are printed in descending order.  
 
-You can see that we are using the features(like genre) of the movies in content based filtering. There are many advantages and disadvantages of content based filtering.   
+You can see that we are using the features(like genre) of the movies in content based filtering. There are many advantages and disadvantages of content based filtering.  
+
 **Advantages**  
 The model doesn't need any data about other users, since the recommendations are specific to this user. This makes it easier to scale to a large number of users.  
 The model can capture the specific interests of a user, and can recommend niche items that very few other users are interested in.  
