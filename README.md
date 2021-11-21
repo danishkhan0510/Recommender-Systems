@@ -15,6 +15,6 @@ You can see that we are using the features(like genre) of the movies in content 
 **Advantages**  
 The model doesn't need any data about other users, since the recommendations are specific to this user. This makes it easier to scale to a large number of users.  
 The model can capture the specific interests of a user, and can recommend niche items that very few other users are interested in.  
-**Disadvantages**
+**Disadvantages**  
 Since the feature representation of the items are hand-engineered to some extent, this technique requires a lot of domain knowledge. Therefore, the model can only be as good as the hand-engineered features.  
 The model can only make recommendations based on existing interests of the user. In other words, the model has limited ability to expand on the users' existing interests.
