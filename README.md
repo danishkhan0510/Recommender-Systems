@@ -32,6 +32,7 @@ Singular Value Decomposition
 Non-Negative Matrix Factorization  
 
 There are many advantages and disadvantages of collaborative filtering.  
+
 **Advantages**  
 * We don't need domain knowledge because the embeddings are automatically learned.  
 * The model can help users discover new interests. In isolation, the ML system may not know the user is interested in a given item, but the model might still recommend it because similar users are interested in that item.  
