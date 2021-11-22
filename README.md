@@ -41,3 +41,7 @@ There are many advantages and disadvantages of collaborative filtering.
 **Disadvantages**  
 * Cold-Start Problem.  
 * Difficult to recommend newer products(maybe recently launched or very less reviews available).  
+
+**Now that you have an idea on the basic types of recommendation systems, I'll be moving on to some advanced algorithms**  
+
+
